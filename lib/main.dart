@@ -7,7 +7,6 @@ import 'package:provider/provider.dart';
 import 'package:harmony/state/searchState.dart';
 import 'package:harmony/ui/page/common/locator.dart';
 import 'package:harmony/ui/theme/theme.dart';
-
 import 'helper/routes.dart';
 import 'state/appState.dart';
 import 'state/authState.dart';

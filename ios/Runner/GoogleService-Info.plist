@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDAKu-60rZPsPjwyNvCMxUiPXSlHjkV-VQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480880948481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.munacorp.twitter</string>
+	<key>PROJECT_ID</key>
+	<string>twitter-be5ae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitter-be5ae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480880948481:ios:6871e784b60073c040d700</string>
+	<key>DATABASE_URL</key>
+	<string>https://twitter-be5ae-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
